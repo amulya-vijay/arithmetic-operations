@@ -7,3 +7,4 @@ sum=&(( num1+num2+num3 ))
 echo "Sum="$sum
 #subtraction
 difference=&(( num1-num2-num3 ))
+echo "Difference="$difference
